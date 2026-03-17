@@ -1,0 +1,192 @@
+entity_id,name
+UniProt:P0A9Q7,adhE
+UniProt:P77580,mhpF
+s0001,s0001
+UniProt:P33221,purT
+UniProt:P11868,tdcD
+UniProt:P0A6A3,ackA
+UniProt:P25516,acnA
+UniProt:P36683,acnB
+UniProt:P69441,adk
+UniProt:P0A9P0,lpd
+UniProt:P0AFG6,sucB
+UniProt:P0AFG3,sucA
+UniProt:P0AEX3,kgtP
+UniProt:P25437,frmA
+UniProt:P39451,adhP
+UniProt:P0ABB0,atpA
+UniProt:P0ABA6,atpG
+UniProt:P0ABA0,atpF
+UniProt:P68699,atpE
+UniProt:P0ABC0,atpI
+UniProt:P0AB98,atpB
+UniProt:P0ABA4,atpH
+UniProt:P0A6E6,atpC
+UniProt:P0ABB4,atpD
+UniProt:P0ABH7,gltA
+UniProt:P0ABJ9,cydA
+UniProt:P0ABK2,cydB
+UniProt:P26458,cbdB
+UniProt:P26459,cbdA
+UniProt:P33231,lldP
+UniProt:Q46839,glcA
+UniProt:P0A6P9,eno
+UniProt:P0AB71,fbaA
+UniProt:P77704,ydjI
+UniProt:P0A991,fbaB
+UniProt:P0A9C9,glpX
+UniProt:P0A993,fbp
+UniProt:P77733,focB
+UniProt:P0AC23,focA
+UniProt:P0A8Q0,frdC
+UniProt:P00363,frdA
+UniProt:P0AC47,frdB
+UniProt:P0A8Q3,frdD
+UniProt:P69805,manZ
+UniProt:P69797,manX
+UniProt:P08839,ptsI
+UniProt:P0AA04,ptsH
+UniProt:P69801,manY
+UniProt:P05042,fumC
+UniProt:P14407,fumB
+UniProt:P0AC33,fumA
+UniProt:P0A830,dctA
+UniProt:P0AC53,zwf
+UniProt:P0A9B2,gapA
+UniProt:P69786,ptsG
+UniProt:P69783,crr
+UniProt:P19642,malX
+UniProt:P78061,puuA
+UniProt:P0A9C5,glnA
+UniProt:P10346,glnQ
+UniProt:P0AEQ3,glnH
+UniProt:P0AEQ6,glnP
+UniProt:P00370,gdhA
+UniProt:P0A6W0,glsB
+UniProt:P77454,glsA
+UniProt:P05041,pabB
+UniProt:P09832,gltD
+UniProt:P09831,gltB
+UniProt:P21345,gltP
+UniProt:P00350,gnd
+UniProt:P60844,aqpZ
+UniProt:P08200,icd
+UniProt:P0A9G6,aceA
+UniProt:P52643,ldhA
+UniProt:P06149,dld
+UniProt:P08997,aceB
+UniProt:P37330,glcB
+UniProt:P61889,mdh
+UniProt:P26616,maeA
+UniProt:P76558,maeB
+UniProt:P0AFD6,nuoI
+UniProt:P0AFE8,nuoM
+UniProt:P0AFE0,nuoJ
+UniProt:P33599,nuoC
+UniProt:P0AFC7,nuoB
+UniProt:P31979,nuoF
+UniProt:P0AFF0,nuoN
+UniProt:P0AFD4,nuoH
+UniProt:P0AFE4,nuoK
+UniProt:P33602,nuoG
+UniProt:P0AFD1,nuoE
+UniProt:P0AFC3,nuoA
+UniProt:P33607,nuoL
+UniProt:P07001,pntA
+UniProt:P27306,sthA
+UniProt:P0AB67,pntB
+UniProt:P69681,amtB
+UniProt:P0AFG8,aceE
+UniProt:P06959,aceF
+UniProt:P0A796,pfkA
+UniProt:P06999,pfkB
+UniProt:P42632,tdcE
+UniProt:P68066,grcA
+UniProt:P32674,pflD
+UniProt:P0A9N4,pflA
+UniProt:P32675,pflC
+UniProt:P09373,pflB
+UniProt:P0A6T1,pgi
+UniProt:P0A799,pgk
+UniProt:P52697,pgl
+UniProt:P37689,gpmM
+UniProt:P0A7A2,ytjC
+UniProt:P62707,gpmA
+UniProt:P0AFJ7,pitA
+UniProt:P43676,pitB
+UniProt:P00864,ppc
+UniProt:P22259,pck
+UniProt:P23538,ppsA
+UniProt:P0A9M8,pta
+UniProt:P77218,eutD
+UniProt:P0AD61,pykF
+UniProt:P21599,pykA
+UniProt:P0AG07,rpe
+UniProt:P39362,sgcE
+UniProt:P0A7Z0,rpiA
+UniProt:P37351,rpiB
+UniProt:P69054,sdhC
+UniProt:P0AC44,sdhD
+UniProt:P07014,sdhB
+UniProt:P0AC41,sdhA
+UniProt:P0AGE9,sucD
+UniProt:P0A836,sucC
+UniProt:P0A870,talB
+UniProt:P0A867,talA
+UniProt:P33570,tktB
+UniProt:P27302,tktA
+UniProt:P0A858,tpiA
+CHEBI:CHEBI:12965,D-Glucose
+CHEBI:CHEBI:13110,L-Glutamine
+CHEBI:CHEBI:13107,L-Glutamate
+CHEBI:CHEBI:14368,Glyoxylate
+CHEBI:CHEBI:10743,H2O H2O
+CHEBI:CHEBI:10744,H+
+CHEBI:CHEBI:14465,Isocitrate
+CHEBI:CHEBI:11001,D-Lactate
+CHEBI:CHEBI:11066,L-Malate
+CHEBI:CHEBI:13393,Nicotinamide adenine dinucleotide
+CHEBI:CHEBI:13395,Nicotinamide adenine dinucleotide - reduced
+CHEBI:CHEBI:13397,Nicotinamide adenine dinucleotide phosphate
+CHEBI:CHEBI:13399,Nicotinamide adenine dinucleotide phosphate - reduced
+CHEBI:CHEBI:13405,Ammonium
+CHEBI:CHEBI:11881,3-Phospho-D-glyceroyl phosphate
+CHEBI:CHEBI:10745,O2 O2
+CHEBI:CHEBI:11651,D-Glycerate 2-phosphate
+CHEBI:CHEBI:11879,3-Phospho-D-glycerate
+CHEBI:CHEBI:12820,Oxaloacetate
+CHEBI:CHEBI:14812,Phosphoenolpyruvate
+CHEBI:CHEBI:12232,6-Phospho-D-gluconate
+CHEBI:CHEBI:14791,Phosphate
+CHEBI:CHEBI:12233,"6-phospho-D-glucono-1,5-lactone"
+CHEBI:CHEBI:13704,Acetate
+CHEBI:CHEBI:14987,Pyruvate
+CHEBI:CHEBI:61683,Ubiquinone-8
+CHEBI:CHEBI:61682,Ubiquinol-8
+CHEBI:CHEBI:10270,Alpha-D-Ribose 5-phosphate
+CHEBI:CHEBI:13018,D-Ribulose 5-phosphate
+CHEBI:CHEBI:13703,Acetaldehyde
+CHEBI:CHEBI:15073,Sedoheptulose 7-phosphate
+CHEBI:CHEBI:13712,Acetyl-CoA
+CHEBI:CHEBI:132287,Succinate
+CHEBI:CHEBI:10746,Succinyl-CoA
+CHEBI:CHEBI:10482,Cis-Aconitate
+CHEBI:CHEBI:13036,D-Xylulose 5-phosphate
+CHEBI:CHEBI:13711,Acetyl phosphate
+CHEBI:CHEBI:13222,ADP C10H12N5O10P2
+CHEBI:CHEBI:11638,2-Oxoglutarate
+CHEBI:CHEBI:12056,AMP C10H12N5O7P
+CHEBI:CHEBI:10789,ATP C10H12N5O13P3
+CHEBI:CHEBI:132362,Citrate
+CHEBI:CHEBI:13282,CO2 CO2
+CHEBI:CHEBI:13294,Coenzyme A
+CHEBI:CHEBI:14341,Dihydroxyacetone phosphate
+CHEBI:CHEBI:12921,D-Erythrose 4-phosphate
+CHEBI:CHEBI:14222,Ethanol
+CHEBI:CHEBI:10375,D-Fructose 6-phosphate
+CHEBI:CHEBI:37736,"D-Fructose 1,6-bisphosphate"
+CHEBI:CHEBI:14276,Formate
+CHEBI:CHEBI:12923,D-Fructose
+CHEBI:CHEBI:14284,Fumarate
+CHEBI:CHEBI:12983,Glyceraldehyde 3-phosphate
+CHEBI:CHEBI:14314,D-Glucose 6-phosphate

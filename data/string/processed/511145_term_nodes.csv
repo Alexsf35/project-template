@@ -1,0 +1,654 @@
+term,category,description
+KW-0570,Annotated Keywords (UniProt),Pentose shunt
+KW-0704,Annotated Keywords (UniProt),Schiff base
+GO:0009052,Biological Process (Gene Ontology),"Pentose-phosphate shunt, non-oxidative branch"
+GO:0004801,Molecular Function (Gene Ontology),Transaldolase activity
+GO:0016744,Molecular Function (Gene Ontology),Transketolase or transaldolase activity
+IPR001585,Protein Domains and Features (InterPro),Transaldolase/Fructose-6-phosphate aldolase
+IPR004730,Protein Domains and Features (InterPro),Transaldolase type 1
+IPR018225,Protein Domains and Features (InterPro),"Transaldolase, active site"
+KW-0670,Annotated Keywords (UniProt),Pyruvate
+KW-0786,Annotated Keywords (UniProt),Thiamine pyrophosphate
+GO:0042867,Biological Process (Gene Ontology),Pyruvate catabolic process
+GO:0045250,Cellular Component (Gene Ontology),Cytosolic pyruvate dehydrogenase complex
+GO:0045254,Cellular Component (Gene Ontology),Pyruvate dehydrogenase complex
+GO:0016624,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor"
+GO:0016903,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+GO:0019842,Molecular Function (Gene Ontology),Vitamin binding
+GO:0030976,Molecular Function (Gene Ontology),Thiamine pyrophosphate binding
+GO:0042803,Molecular Function (Gene Ontology),Protein homodimerization activity
+GO:0046983,Molecular Function (Gene Ontology),Protein dimerization activity
+GO:0050997,Molecular Function (Gene Ontology),Quaternary ammonium group binding
+GO:1901681,Molecular Function (Gene Ontology),Sulfur compound binding
+PF00456,Protein Domains (Pfam),"Transketolase, thiamine diphosphate binding domain"
+IPR005474,Protein Domains and Features (InterPro),"Transketolase, N-terminal"
+IPR009014,Protein Domains and Features (InterPro),Transketolase C-terminal/Pyruvate-ferredoxin oxidoreductase domain II
+IPR029061,Protein Domains and Features (InterPro),Thiamin diphosphate-binding fold
+GOCC:0045250,Subcellular localization (COMPARTMENTS),Cytosolic pyruvate dehydrogenase complex
+GOCC:0045254,Subcellular localization (COMPARTMENTS),Pyruvate dehydrogenase complex
+KW-0012,Annotated Keywords (UniProt),Acyltransferase
+KW-0450,Annotated Keywords (UniProt),Lipoyl
+KW-0677,Annotated Keywords (UniProt),Repeat
+GO:0006084,Biological Process (Gene Ontology),acetyl-CoA metabolic process
+GO:0006085,Biological Process (Gene Ontology),acetyl-CoA biosynthetic process
+GO:0006637,Biological Process (Gene Ontology),acyl-CoA metabolic process
+GO:0006790,Biological Process (Gene Ontology),Sulfur compound metabolic process
+GO:0033865,Biological Process (Gene Ontology),Nucleoside bisphosphate metabolic process
+GO:0033866,Biological Process (Gene Ontology),Nucleoside bisphosphate biosynthetic process
+GO:0033875,Biological Process (Gene Ontology),Ribonucleoside bisphosphate metabolic process
+GO:0034030,Biological Process (Gene Ontology),Ribonucleoside bisphosphate biosynthetic process
+GO:0034032,Biological Process (Gene Ontology),Purine nucleoside bisphosphate metabolic process
+GO:0034033,Biological Process (Gene Ontology),Purine nucleoside bisphosphate biosynthetic process
+GO:0035383,Biological Process (Gene Ontology),Thioester metabolic process
+GO:0035384,Biological Process (Gene Ontology),Thioester biosynthetic process
+GO:0043603,Biological Process (Gene Ontology),Cellular amide metabolic process
+GO:0043604,Biological Process (Gene Ontology),Amide biosynthetic process
+GO:0044272,Biological Process (Gene Ontology),Sulfur compound biosynthetic process
+GO:0071616,Biological Process (Gene Ontology),acyl-CoA biosynthetic process
+GO:0005504,Molecular Function (Gene Ontology),Fatty acid binding
+GO:0008289,Molecular Function (Gene Ontology),Lipid binding
+GO:0016407,Molecular Function (Gene Ontology),Acetyltransferase activity
+GO:0016417,Molecular Function (Gene Ontology),S-acyltransferase activity
+GO:0031405,Molecular Function (Gene Ontology),Lipoic acid binding
+GO:0031406,Molecular Function (Gene Ontology),Carboxylic acid binding
+GO:0033293,Molecular Function (Gene Ontology),Monocarboxylic acid binding
+GO:0043177,Molecular Function (Gene Ontology),Organic acid binding
+GO:0140096,Molecular Function (Gene Ontology),"Catalytic activity, acting on a protein"
+PF00198,Protein Domains (Pfam),2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+PF00364,Protein Domains (Pfam),Biotin-requiring enzyme
+PF02817,Protein Domains (Pfam),e3 binding domain
+IPR000089,Protein Domains and Features (InterPro),Biotin/lipoyl attachment
+IPR001078,Protein Domains and Features (InterPro),"2-oxoacid dehydrogenase acyltransferase, catalytic domain"
+IPR003016,Protein Domains and Features (InterPro),"2-oxo acid dehydrogenase, lipoyl-binding site"
+IPR004167,Protein Domains and Features (InterPro),Peripheral subunit-binding domain
+IPR011053,Protein Domains and Features (InterPro),Single hybrid motif
+IPR023213,Protein Domains and Features (InterPro),Chloramphenicol acetyltransferase-like domain superfamily
+IPR036625,Protein Domains and Features (InterPro),E3-binding domain superfamily
+KW-0274,Annotated Keywords (UniProt),FAD
+GO:0019725,Biological Process (Gene Ontology),Cellular homeostasis
+GO:0042592,Biological Process (Gene Ontology),Homeostatic process
+GO:0045454,Biological Process (Gene Ontology),Cell redox homeostasis
+GO:0050794,Biological Process (Gene Ontology),Regulation of cellular process
+GO:0065008,Biological Process (Gene Ontology),Regulation of biological quality
+GO:0045239,Cellular Component (Gene Ontology),Tricarboxylic acid cycle enzyme complex
+GO:0045240,Cellular Component (Gene Ontology),Dihydrolipoyl dehydrogenase complex
+GO:0045252,Cellular Component (Gene Ontology),Oxoglutarate dehydrogenase complex
+GO:1990234,Cellular Component (Gene Ontology),Transferase complex
+GO:0004148,Molecular Function (Gene Ontology),Dihydrolipoyl dehydrogenase activity
+GO:0016667,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on a sulfur group of donors"
+GO:0016668,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"
+GO:0050660,Molecular Function (Gene Ontology),Flavin adenine dinucleotide binding
+PF00070,Protein Domains (Pfam),Pyridine nucleotide-disulphide oxidoreductase
+PF00890,Protein Domains (Pfam),FAD binding domain
+PF02852,Protein Domains (Pfam),"Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain"
+IPR001100,Protein Domains and Features (InterPro),"Pyridine nucleotide-disulphide oxidoreductase, class I"
+IPR004099,Protein Domains and Features (InterPro),"Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain"
+IPR016156,Protein Domains and Features (InterPro),"FAD/NAD-linked reductase, dimerisation domain superfamily"
+IPR023753,Protein Domains and Features (InterPro),FAD/NAD(P)-binding domain
+IPR036188,Protein Domains and Features (InterPro),FAD/NAD(P)-binding domain superfamily
+GOCC:0045239,Subcellular localization (COMPARTMENTS),Tricarboxylic acid cycle enzyme complex
+GOCC:0045240,Subcellular localization (COMPARTMENTS),Dihydrolipoyl dehydrogenase complex
+GOCC:0045252,Subcellular localization (COMPARTMENTS),Oxoglutarate dehydrogenase complex
+GOCC:1990234,Subcellular localization (COMPARTMENTS),Transferase complex
+KW-0694,Annotated Keywords (UniProt),RNA-binding
+GO:0006097,Biological Process (Gene Ontology),Glyoxylate cycle
+GO:0006629,Biological Process (Gene Ontology),Lipid metabolic process
+GO:0006631,Biological Process (Gene Ontology),Fatty acid metabolic process
+GO:0009889,Biological Process (Gene Ontology),Regulation of biosynthetic process
+GO:0010468,Biological Process (Gene Ontology),Regulation of gene expression
+GO:0010556,Biological Process (Gene Ontology),Regulation of macromolecule biosynthetic process
+GO:0019222,Biological Process (Gene Ontology),Regulation of metabolic process
+GO:0019541,Biological Process (Gene Ontology),Propionate metabolic process
+GO:0031323,Biological Process (Gene Ontology),Regulation of cellular metabolic process
+GO:0031326,Biological Process (Gene Ontology),Regulation of cellular biosynthetic process
+GO:0044255,Biological Process (Gene Ontology),Cellular lipid metabolic process
+GO:0046459,Biological Process (Gene Ontology),Short-chain fatty acid metabolic process
+GO:0046487,Biological Process (Gene Ontology),Glyoxylate metabolic process
+GO:0051171,Biological Process (Gene Ontology),Regulation of nitrogen compound metabolic process
+GO:0060255,Biological Process (Gene Ontology),Regulation of macromolecule metabolic process
+GO:0080090,Biological Process (Gene Ontology),Regulation of primary metabolic process
+CL:2087,Local Network Cluster (STRING),"Aconitate hydratase activity, and Citrate synthase"
+GO:0003676,Molecular Function (Gene Ontology),Nucleic acid binding
+GO:0003723,Molecular Function (Gene Ontology),RNA binding
+GO:0003729,Molecular Function (Gene Ontology),mRNA binding
+GO:0003730,Molecular Function (Gene Ontology),mRNA 3-UTR binding
+GO:0003994,Molecular Function (Gene Ontology),Aconitate hydratase activity
+GO:0016835,Molecular Function (Gene Ontology),Carbon-oxygen lyase activity
+GO:0016836,Molecular Function (Gene Ontology),Hydro-lyase activity
+GO:0047780,Molecular Function (Gene Ontology),Citrate dehydratase activity
+PF00330,Protein Domains (Pfam),Aconitase family (aconitate hydratase)
+IPR001030,Protein Domains and Features (InterPro),"Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha domain"
+IPR015928,Protein Domains and Features (InterPro),"Aconitase/3-isopropylmalate dehydratase, swivel"
+IPR015931,Protein Domains and Features (InterPro),"Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha, subdomain 1/3"
+IPR018136,Protein Domains and Features (InterPro),"Aconitase family, 4Fe-4S cluster binding site"
+IPR036008,Protein Domains and Features (InterPro),"Aconitase, iron-sulfur domain"
+GO:0019439,Biological Process (Gene Ontology),Aromatic compound catabolic process
+GO:0042221,Biological Process (Gene Ontology),Response to chemical
+GO:0042537,Biological Process (Gene Ontology),Benzene-containing compound metabolic process
+GO:0070887,Biological Process (Gene Ontology),Cellular response to chemical stimulus
+GO:1901361,Biological Process (Gene Ontology),Organic cyclic compound catabolic process
+CL:6207,Local Network Cluster (STRING),"Mostly uncharacterized, incl. Degradation of aromatic compounds, and Uracil catabolic process"
+CL:6208,Local Network Cluster (STRING),"Mostly uncharacterized, incl. 3-phenylpropionate catabolic process, and Uracil catabolic process"
+GO:0008774,Molecular Function (Gene Ontology),Acetaldehyde dehydrogenase (acetylating) activity
+GO:0016620,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+KW-0862,Annotated Keywords (UniProt),Zinc
+GO:0006066,Biological Process (Gene Ontology),Alcohol metabolic process
+GO:0006067,Biological Process (Gene Ontology),Ethanol metabolic process
+GO:0010033,Biological Process (Gene Ontology),Response to organic substance
+GO:0034308,Biological Process (Gene Ontology),Primary alcohol metabolic process
+GO:0046185,Biological Process (Gene Ontology),Aldehyde catabolic process
+GO:1901615,Biological Process (Gene Ontology),Organic hydroxy compound metabolic process
+GO:1901700,Biological Process (Gene Ontology),Response to oxygen-containing compound
+CL:5950,Local Network Cluster (STRING),"Mixed, incl. Amine metabolic process, and Alcohol dehydrogenase-like, N-terminal"
+CL:5951,Local Network Cluster (STRING),"Mixed, incl. Ethanolamine catabolic process, and Alcohol dehydrogenase-like, N-terminal"
+CL:5952,Local Network Cluster (STRING),"Ethanolamine catabolic process, and Aldehyde catabolic process"
+GO:0004022,Molecular Function (Gene Ontology),Alcohol dehydrogenase (NAD+) activity
+GO:0018455,Molecular Function (Gene Ontology),Alcohol dehydrogenase [NAD(P)+] activity
+PF08240,Protein Domains (Pfam),Alcohol dehydrogenase GroES-like domain
+IPR002328,Protein Domains and Features (InterPro),"Alcohol dehydrogenase, zinc-type, conserved site"
+IPR011032,Protein Domains and Features (InterPro),GroES-like superfamily
+IPR013149,Protein Domains and Features (InterPro),"Alcohol dehydrogenase-like, C-terminal"
+IPR013154,Protein Domains and Features (InterPro),"Alcohol dehydrogenase-like, N-terminal"
+IPR020843,Protein Domains and Features (InterPro),"Polyketide synthase, enoylreductase domain"
+KW-0732,Annotated Keywords (UniProt),Signal
+GO:0071705,Biological Process (Gene Ontology),Nitrogen compound transport
+CL:1600,Local Network Cluster (STRING),"Mixed, incl. Glutamine family amino acid biosynthetic process, and Asparagine metabolic process"
+CL:1601,Local Network Cluster (STRING),"Glutamine family amino acid biosynthetic process, and Regulation of nitrogen utilization"
+CL:1639,Local Network Cluster (STRING),"Mixed, incl. Regulation of nitrogen utilization, and Glutamate biosynthetic process"
+GO:0009123,Biological Process (Gene Ontology),Nucleoside monophosphate metabolic process
+GO:0009124,Biological Process (Gene Ontology),Nucleoside monophosphate biosynthetic process
+GO:0009126,Biological Process (Gene Ontology),Purine nucleoside monophosphate metabolic process
+GO:0009127,Biological Process (Gene Ontology),Purine nucleoside monophosphate biosynthetic process
+GO:0009156,Biological Process (Gene Ontology),Ribonucleoside monophosphate biosynthetic process
+GO:0009161,Biological Process (Gene Ontology),Ribonucleoside monophosphate metabolic process
+GO:0009167,Biological Process (Gene Ontology),Purine ribonucleoside monophosphate metabolic process
+GO:0009168,Biological Process (Gene Ontology),Purine ribonucleoside monophosphate biosynthetic process
+GO:0016208,Molecular Function (Gene Ontology),AMP binding
+IPR027417,Protein Domains and Features (InterPro),P-loop containing nucleoside triphosphate hydrolase
+KW-0378,Annotated Keywords (UniProt),Hydrolase
+GO:0006536,Biological Process (Gene Ontology),Glutamate metabolic process
+GO:0006537,Biological Process (Gene Ontology),Glutamate biosynthetic process
+GO:0006541,Biological Process (Gene Ontology),Glutamine metabolic process
+GO:0006543,Biological Process (Gene Ontology),Glutamine catabolic process
+GO:0009065,Biological Process (Gene Ontology),Glutamine family amino acid catabolic process
+GO:0009268,Biological Process (Gene Ontology),Response to pH
+GO:0010447,Biological Process (Gene Ontology),Response to acidic pH
+GO:0040008,Biological Process (Gene Ontology),Regulation of growth
+GO:0043650,Biological Process (Gene Ontology),Dicarboxylic acid biosynthetic process
+GO:0045926,Biological Process (Gene Ontology),Negative regulation of growth
+GO:0048519,Biological Process (Gene Ontology),Negative regulation of biological process
+GO:0004359,Molecular Function (Gene Ontology),Glutaminase activity
+GO:0016787,Molecular Function (Gene Ontology),Hydrolase activity
+GO:0016810,Molecular Function (Gene Ontology),"Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GO:0016811,Molecular Function (Gene Ontology),"Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+PF04960,Protein Domains (Pfam),Glutaminase
+IPR012338,Protein Domains and Features (InterPro),Beta-lactamase/transpeptidase-like
+IPR015868,Protein Domains and Features (InterPro),Glutaminase
+GO:0043933,Biological Process (Gene Ontology),Protein-containing complex organization
+GO:0051259,Biological Process (Gene Ontology),Protein complex oligomerization
+GO:0065003,Biological Process (Gene Ontology),Protein-containing complex assembly
+GO:0046912,Molecular Function (Gene Ontology),"Acyltransferase activity, acyl groups converted into alkyl on transfer"
+GO:0070404,Molecular Function (Gene Ontology),NADH binding
+KW-0349,Annotated Keywords (UniProt),Heme
+GO:0017004,Biological Process (Gene Ontology),Cytochrome complex assembly
+GO:0045273,Cellular Component (Gene Ontology),Respiratory chain complex II
+GO:0045281,Cellular Component (Gene Ontology),Succinate dehydrogenase complex
+GO:0008177,Molecular Function (Gene Ontology),Succinate dehydrogenase (ubiquinone) activity
+GO:0020037,Molecular Function (Gene Ontology),Heme binding
+GO:0046906,Molecular Function (Gene Ontology),Tetrapyrrole binding
+GO:0048039,Molecular Function (Gene Ontology),Ubiquinone binding
+PF01127,Protein Domains (Pfam),Succinate dehydrogenase/Fumarate reductase transmembrane subunit
+IPR000701,Protein Domains and Features (InterPro),"Succinate dehydrogenase/fumarate reductase type B, transmembrane subunit"
+IPR034804,Protein Domains and Features (InterPro),"Fumarate reductase/succinate dehydrogenase, transmembrane subunit"
+GO:0045274,Cellular Component (Gene Ontology),Plasma membrane respiratory chain complex II
+IPR003952,Protein Domains and Features (InterPro),"Fumarate reductase/succinate dehydrogenase, FAD-binding site"
+IPR003953,Protein Domains and Features (InterPro),"FAD-dependent oxidoreductase 2, FAD binding domain"
+IPR014006,Protein Domains and Features (InterPro),"Succinate dehydrogenase/fumarate reductase, flavoprotein subunit"
+IPR015939,Protein Domains and Features (InterPro),"Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal"
+IPR027477,Protein Domains and Features (InterPro),"Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain superfamily"
+IPR030664,Protein Domains and Features (InterPro),FAD-dependent oxidoreductase SdhA/FrdA/AprA
+IPR037099,Protein Domains and Features (InterPro),"Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal domain superfamily"
+GOCC:0045273,Subcellular localization (COMPARTMENTS),Respiratory chain complex II
+GOCC:0045274,Subcellular localization (COMPARTMENTS),Plasma membrane respiratory chain complex II
+KW-0001,Annotated Keywords (UniProt),2Fe-2S
+KW-0003,Annotated Keywords (UniProt),3Fe-4S
+GO:0051537,Molecular Function (Gene Ontology),"2 iron, 2 sulfur cluster binding"
+GO:0051538,Molecular Function (Gene Ontology),"3 iron, 4 sulfur cluster binding"
+PF13085,Protein Domains (Pfam),2Fe-2S iron-sulfur cluster binding domain
+PF13183,Protein Domains (Pfam),4Fe-4S dicluster domain
+IPR001041,Protein Domains and Features (InterPro),2Fe-2S ferredoxin-type iron-sulfur binding domain
+IPR004489,Protein Domains and Features (InterPro),Succinate dehydrogenase/fumarate reductase iron-sulphur protein
+IPR009051,Protein Domains and Features (InterPro),Alpha-helical ferredoxin
+IPR012675,Protein Domains and Features (InterPro),Beta-grasp domain superfamily
+IPR017896,Protein Domains and Features (InterPro),"4Fe-4S ferredoxin-type, iron-sulphur binding domain"
+IPR017900,Protein Domains and Features (InterPro),"4Fe-4S ferredoxin, iron-sulphur binding, conserved site"
+IPR025192,Protein Domains and Features (InterPro),Succinate dehydogenase/fumarate reductase N-terminal
+IPR036010,Protein Domains and Features (InterPro),2Fe-2S ferredoxin-like superfamily
+SM00861,Protein Domains (SMART),"Transketolase, pyrimidine binding domain"
+IPR005475,Protein Domains and Features (InterPro),"Transketolase-like, pyrimidine-binding domain"
+GO:0009066,Biological Process (Gene Ontology),Aspartate family amino acid metabolic process
+GO:0009068,Biological Process (Gene Ontology),Aspartate family amino acid catabolic process
+KW-0436,Annotated Keywords (UniProt),Ligase
+GO:0009361,Cellular Component (Gene Ontology),succinate-CoA ligase complex (ADP-forming)
+GO:0042709,Cellular Component (Gene Ontology),succinate-CoA ligase complex
+GO:0004774,Molecular Function (Gene Ontology),succinate-CoA ligase activity
+GO:0004775,Molecular Function (Gene Ontology),succinate-CoA ligase (ADP-forming) activity
+GO:0016877,Molecular Function (Gene Ontology),"Ligase activity, forming carbon-sulfur bonds"
+GO:0016878,Molecular Function (Gene Ontology),Acid-thiol ligase activity
+PF00549,Protein Domains (Pfam),CoA-ligase
+IPR005811,Protein Domains and Features (InterPro),ATP-citrate lyase/succinyl-CoA ligase
+IPR011761,Protein Domains and Features (InterPro),ATP-grasp fold
+IPR013815,Protein Domains and Features (InterPro),"ATP-grasp fold, subdomain 1"
+IPR016102,Protein Domains and Features (InterPro),Succinyl-CoA synthetase-like
+GOCC:0009361,Subcellular localization (COMPARTMENTS),succinate-CoA ligase complex (ADP-forming)
+GOCC:0042709,Subcellular localization (COMPARTMENTS),succinate-CoA ligase complex
+GO:0006468,Biological Process (Gene Ontology),Protein phosphorylation
+GO:0019538,Biological Process (Gene Ontology),Protein metabolic process
+GO:0036211,Biological Process (Gene Ontology),Protein modification process
+GO:0043170,Biological Process (Gene Ontology),Macromolecule metabolic process
+GO:0043412,Biological Process (Gene Ontology),Macromolecule modification
+KW-0291,Annotated Keywords (UniProt),Formylation
+GO:0019646,Biological Process (Gene Ontology),Aerobic electron transport chain
+GO:0070069,Cellular Component (Gene Ontology),Cytochrome complex
+CL:2256,Local Network Cluster (STRING),Cytochrome complex
+GO:0016679,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on diphenols and related substances as donors"
+GO:0016682,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"
+PF01654,Protein Domains (Pfam),Cytochrome bd terminal oxidase subunit I
+IPR002585,Protein Domains and Features (InterPro),Cytochrome ubiquinol oxidase subunit 1
+GOCC:0070069,Subcellular localization (COMPARTMENTS),Cytochrome complex
+PF02322,Protein Domains (Pfam),Cytochrome bd terminal oxidase subunit II
+IPR003317,Protein Domains and Features (InterPro),Cytochrome ubiquinol oxidase subunit 2
+KW-0312,Annotated Keywords (UniProt),Gluconeogenesis
+GO:0004619,Molecular Function (Gene Ontology),Phosphoglycerate mutase activity
+GO:0016866,Molecular Function (Gene Ontology),Intramolecular transferase activity
+GO:0016868,Molecular Function (Gene Ontology),"Intramolecular transferase activity, phosphotransferases"
+GO:0019001,Molecular Function (Gene Ontology),Guanyl nucleotide binding
+GO:0032561,Molecular Function (Gene Ontology),Guanyl ribonucleotide binding
+GO:0097216,Molecular Function (Gene Ontology),Guanosine tetraphosphate binding
+SM00855,Protein Domains (SMART),Phosphoglycerate mutase family
+IPR001345,Protein Domains and Features (InterPro),"Phosphoglycerate/bisphosphoglycerate mutase, active site"
+IPR013078,Protein Domains and Features (InterPro),"Histidine phosphatase superfamily, clade-1"
+IPR029033,Protein Domains and Features (InterPro),Histidine phosphatase superfamily
+KW-0313,Annotated Keywords (UniProt),Glucose metabolism
+GO:0016788,Molecular Function (Gene Ontology),"Hydrolase activity, acting on ester bonds"
+KW-0029,Annotated Keywords (UniProt),Amino-acid transport
+GO:0003333,Biological Process (Gene Ontology),Amino acid transmembrane transport
+GO:0006865,Biological Process (Gene Ontology),Amino acid transport
+GO:0006868,Biological Process (Gene Ontology),Glutamine transport
+GO:0015804,Biological Process (Gene Ontology),Neutral amino acid transport
+GO:0015807,Biological Process (Gene Ontology),L-amino acid transport
+GO:0089718,Biological Process (Gene Ontology),Amino acid import across plasma membrane
+GO:1902475,Biological Process (Gene Ontology),L-alpha-amino acid transmembrane transport
+GO:1903803,Biological Process (Gene Ontology),L-glutamine import across plasma membrane
+GO:0043190,Cellular Component (Gene Ontology),ATP-binding cassette (ABC) transporter complex
+GO:0055052,Cellular Component (Gene Ontology),"ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing"
+GO:0098533,Cellular Component (Gene Ontology),ATPase dependent transmembrane transport complex
+CL:4178,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4179,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4180,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4181,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4182,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4183,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4184,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4185,Local Network Cluster (STRING),ATP-binding cassette (ABC) transporter complex
+CL:4186,Local Network Cluster (STRING),"ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing"
+CL:4187,Local Network Cluster (STRING),"Mixed, incl. Amino acid import across plasma membrane, and ABC transporter, permease"
+CL:4188,Local Network Cluster (STRING),"Amino acid import across plasma membrane, and L-cystine transport"
+CL:4189,Local Network Cluster (STRING),"Amino acid import across plasma membrane, and L-cystine transport"
+CL:4191,Local Network Cluster (STRING),Amino acid import across plasma membrane
+CL:4211,Local Network Cluster (STRING),"Glutamine transport, and L-glutamate import across plasma membrane"
+GO:0015171,Molecular Function (Gene Ontology),Amino acid transmembrane transporter activity
+IPR003593,Protein Domains and Features (InterPro),AAA+ ATPase domain
+GO:0048878,Biological Process (Gene Ontology),Chemical homeostasis
+IPR023271,Protein Domains and Features (InterPro),Aquaporin-like
+KW-0949,Annotated Keywords (UniProt),S-adenosyl-L-methionine
+GO:0010467,Biological Process (Gene Ontology),Gene expression
+GO:0018193,Biological Process (Gene Ontology),Peptidyl-amino acid modification
+GO:0030955,Molecular Function (Gene Ontology),Potassium ion binding
+GO:0031420,Molecular Function (Gene Ontology),Alkali metal ion binding
+GO:0043364,Molecular Function (Gene Ontology),Glycyl-radical enzyme activating activity
+GO:0043365,Molecular Function (Gene Ontology),[formate-C-acetyltransferase]-activating enzyme activity
+SM00729,Protein Domains (SMART),"Elongator protein 3, MiaB family, Radical SAM"
+IPR001989,Protein Domains and Features (InterPro),"Radical-activating enzyme, conserved site"
+IPR007197,Protein Domains and Features (InterPro),Radical SAM
+IPR012839,Protein Domains and Features (InterPro),Organic radical enzyme activase
+IPR034457,Protein Domains and Features (InterPro),Organic radical-activating enzymes
+IPR040074,Protein Domains and Features (InterPro),BssD/PflA/YjjW
+KW-0556,Annotated Keywords (UniProt),Organic radical
+GO:0006566,Biological Process (Gene Ontology),Threonine metabolic process
+GO:0006567,Biological Process (Gene Ontology),Threonine catabolic process
+CL:2019,Local Network Cluster (STRING),"Acetate metabolic process, and Ethanol metabolic process"
+GO:0008861,Molecular Function (Gene Ontology),Formate C-acetyltransferase activity
+GO:0016408,Molecular Function (Gene Ontology),C-acyltransferase activity
+GO:0016453,Molecular Function (Gene Ontology),C-acetyltransferase activity
+PF01228,Protein Domains (Pfam),Glycine radical
+PF02901,Protein Domains (Pfam),Pyruvate formate lyase-like
+IPR001150,Protein Domains and Features (InterPro),Glycine radical domain
+IPR004184,Protein Domains and Features (InterPro),Pyruvate formate lyase domain
+IPR005949,Protein Domains and Features (InterPro),Formate acetyltransferase
+IPR019777,Protein Domains and Features (InterPro),"Formate C-acetyltransferase glycine radical, conserved site"
+GO:0015718,Biological Process (Gene Ontology),Monocarboxylic acid transport
+GO:0015724,Biological Process (Gene Ontology),Formate transport
+GO:0019660,Biological Process (Gene Ontology),Glycolytic fermentation
+GO:0019664,Biological Process (Gene Ontology),Mixed acid fermentation
+GO:0008028,Molecular Function (Gene Ontology),Monocarboxylic acid transmembrane transporter activity
+GO:0008509,Molecular Function (Gene Ontology),Anion transmembrane transporter activity
+GO:0008514,Molecular Function (Gene Ontology),Organic anion transmembrane transporter activity
+GO:0015499,Molecular Function (Gene Ontology),Formate transmembrane transporter activity
+PF01226,Protein Domains (Pfam),Formate/nitrite transporter
+IPR000292,Protein Domains and Features (InterPro),Formate/nitrite transporter
+IPR024002,Protein Domains and Features (InterPro),"Formate/nitrite transporter, conserved site"
+CL:4810,Local Network Cluster (STRING),"Mixed, incl. Anaerobic respiration, and Molybdenum cofactor biosynthesis"
+CL:4956,Local Network Cluster (STRING),"Anaerobic electron transport chain, and Protein maturation"
+CL:5030,Local Network Cluster (STRING),"[Ni-Fe] hydrogenase complex, and Protein maturation"
+CL:5058,Local Network Cluster (STRING),"Mixed, incl. [Ni-Fe] hydrogenase complex, and Cytochrome bo3 ubiquinol oxidase activity"
+GO:0009486,Molecular Function (Gene Ontology),Cytochrome bo3 ubiquinol oxidase activity
+GO:0016675,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on a heme group of donors"
+GO:0006355,Biological Process (Gene Ontology),"Regulation of transcription, DNA-templated"
+GO:0008645,Biological Process (Gene Ontology),Hexose transmembrane transport
+GO:0015749,Biological Process (Gene Ontology),Monosaccharide transmembrane transport
+GO:0019219,Biological Process (Gene Ontology),Regulation of nucleobase-containing compound metabolic process
+GO:0044092,Biological Process (Gene Ontology),Negative regulation of molecular function
+GO:0051252,Biological Process (Gene Ontology),Regulation of RNA metabolic process
+GO:0065009,Biological Process (Gene Ontology),Regulation of molecular function
+GO:1903506,Biological Process (Gene Ontology),Regulation of nucleic acid-templated transcription
+GO:1904659,Biological Process (Gene Ontology),Glucose transmembrane transport
+GO:2001141,Biological Process (Gene Ontology),Regulation of RNA biosynthetic process
+CL:2183,Local Network Cluster (STRING),"Mixed, incl. Regulation of DNA binding, and Helix_turn _helix lactose operon repressor"
+CL:2185,Local Network Cluster (STRING),"Regulation of DNA binding, and Negative regulation of kinase activity"
+GO:0008982,Molecular Function (Gene Ontology),protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+GO:0015144,Molecular Function (Gene Ontology),Carbohydrate transmembrane transporter activity
+GO:0015145,Molecular Function (Gene Ontology),Monosaccharide transmembrane transporter activity
+GO:0015149,Molecular Function (Gene Ontology),Hexose transmembrane transporter activity
+GO:0051119,Molecular Function (Gene Ontology),Sugar transmembrane transporter activity
+GO:0090563,Molecular Function (Gene Ontology),Protein-phosphocysteine-sugar phosphotransferase activity
+GO:0090564,Molecular Function (Gene Ontology),Protein-phosphocysteine-glucose phosphotransferase system transporter activity
+PF00367,Protein Domains (Pfam),"Phosphotransferase system, EIIB"
+PF02378,Protein Domains (Pfam),"Phosphotransferase system, EIIC "
+IPR001996,Protein Domains and Features (InterPro),"Phosphotransferase system, IIB component, type 1"
+IPR003352,Protein Domains and Features (InterPro),"Phosphotransferase system, EIIC"
+IPR004719,Protein Domains and Features (InterPro),"Phosphotransferase system, maltose/glucose-specific subfamily IIC component"
+IPR013013,Protein Domains and Features (InterPro),"Phosphotransferase system, EIIC component, type 1"
+IPR018113,Protein Domains and Features (InterPro),"Phosphotransferase system EIIB, cysteine phosphorylation site"
+IPR036878,Protein Domains and Features (InterPro),Glucose permease domain IIB
+KW-0329,Annotated Keywords (UniProt),Glyoxylate bypass
+KW-0511,Annotated Keywords (UniProt),Multifunctional enzyme
+GO:0044260,Biological Process (Gene Ontology),Cellular macromolecule metabolic process
+GO:0051260,Biological Process (Gene Ontology),Protein homooligomerization
+GO:0090304,Biological Process (Gene Ontology),Nucleic acid metabolic process
+GO:0005506,Molecular Function (Gene Ontology),Iron ion binding
+GO:0008198,Molecular Function (Gene Ontology),Ferrous iron binding
+GO:0006542,Biological Process (Gene Ontology),Glutamine biosynthetic process
+GO:0006576,Biological Process (Gene Ontology),Cellular biogenic amine metabolic process
+GO:0009308,Biological Process (Gene Ontology),Amine metabolic process
+GO:0009310,Biological Process (Gene Ontology),Amine catabolic process
+GO:0042402,Biological Process (Gene Ontology),Cellular biogenic amine catabolic process
+GO:0044106,Biological Process (Gene Ontology),Cellular amine metabolic process
+GO:0004356,Molecular Function (Gene Ontology),Glutamate-ammonia ligase activity
+GO:0016211,Molecular Function (Gene Ontology),Ammonia ligase activity
+GO:0016879,Molecular Function (Gene Ontology),"Ligase activity, forming carbon-nitrogen bonds"
+GO:0016880,Molecular Function (Gene Ontology),Acid-ammonia (or amide) ligase activity
+IPR008146,Protein Domains and Features (InterPro),"Glutamine synthetase, catalytic domain"
+IPR008147,Protein Domains and Features (InterPro),"Glutamine synthetase, N-terminal domain"
+IPR014746,Protein Domains and Features (InterPro),"Glutamine synthetase/guanido kinase, catalytic domain"
+IPR027303,Protein Domains and Features (InterPro),"Glutamine synthetase, glycine-rich site"
+IPR036651,Protein Domains and Features (InterPro),"Glutamine synthetase, N-terminal domain superfamily"
+KW-0346,Annotated Keywords (UniProt),Stress response
+GO:0009266,Biological Process (Gene Ontology),Response to temperature stimulus
+GO:0009408,Biological Process (Gene Ontology),Response to heat
+CL:2030,Local Network Cluster (STRING),"Mixed, incl. Thiamine pyrophosphate enzyme, TPP-binding, and Pyruvate kinase"
+GO:0006108,Biological Process (Gene Ontology),Malate metabolic process
+CL:2097,Local Network Cluster (STRING),"Malate dehydrogenase activity, and Fumarate hydratase activity"
+GO:0004470,Molecular Function (Gene Ontology),Malic enzyme activity
+GO:0004471,Molecular Function (Gene Ontology),Malate dehydrogenase (decarboxylating) (NAD+) activity
+GO:0008948,Molecular Function (Gene Ontology),Oxaloacetate decarboxylase activity
+GO:0016615,Molecular Function (Gene Ontology),Malate dehydrogenase activity
+GO:0016831,Molecular Function (Gene Ontology),Carboxy-lyase activity
+SM00919,Protein Domains (SMART),"Malic enzyme, NAD binding domain"
+SM01274,Protein Domains (SMART),"Malic enzyme, N-terminal domain"
+IPR012301,Protein Domains and Features (InterPro),"Malic enzyme, N-terminal domain"
+IPR012302,Protein Domains and Features (InterPro),"Malic enzyme, NAD-binding"
+IPR015884,Protein Domains and Features (InterPro),"Malic enzyme, conserved site"
+IPR037062,Protein Domains and Features (InterPro),"Malic enzyme, N-terminal domain superfamily"
+IPR046346,Protein Domains and Features (InterPro),"Aminoacid dehydrogenase-like, N-terminal domain superfamily"
+CL:1640,Local Network Cluster (STRING),"Glutamate biosynthetic process, and Glycine cleavage complex"
+GO:0120029,Biological Process (Gene Ontology),Proton export across plasma membrane
+GO:0140115,Biological Process (Gene Ontology),Export across plasma membrane
+GO:0140352,Biological Process (Gene Ontology),Export from cell
+GO:0009327,Cellular Component (Gene Ontology),NAD(P)+ transhydrogenase complex (AB-specific)
+GO:0140535,Cellular Component (Gene Ontology),Intracellular protein-containing complex
+CL:1869,Local Network Cluster (STRING),"Water-soluble vitamin biosynthetic process, and Nicotinate and nicotinamide metabolism"
+CL:1974,Local Network Cluster (STRING),Nicotinate and nicotinamide metabolism
+CL:1993,Local Network Cluster (STRING),"NAD(P)+ transhydrogenase activity, and NAD+ kinase activity"
+GO:0008746,Molecular Function (Gene Ontology),NAD(P)+ transhydrogenase activity
+GO:0008750,Molecular Function (Gene Ontology),NAD(P)+ transhydrogenase (AB-specific) activity
+GO:0016652,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor"
+GO:0050661,Molecular Function (Gene Ontology),NADP binding
+GOCC:0009327,Subcellular localization (COMPARTMENTS),NAD(P)+ transhydrogenase complex (AB-specific)
+GO:0006106,Biological Process (Gene Ontology),Fumarate metabolic process
+GO:0004333,Molecular Function (Gene Ontology),Fumarate hydratase activity
+IPR020557,Protein Domains and Features (InterPro),"Fumarate lyase, conserved site"
+GO:0016860,Molecular Function (Gene Ontology),Intramolecular oxidoreductase activity
+IPR004646,Protein Domains and Features (InterPro),"Fe-S hydro-lyase, tartrate dehydratase alpha-type, catalytic domain"
+IPR004647,Protein Domains and Features (InterPro),"Fe-S hydro-lyase, tartrate dehydratase beta-type, catalytic domain"
+IPR011167,Protein Domains and Features (InterPro),Iron-dependent fumarate hydratase
+IPR036660,Protein Domains and Features (InterPro),"Fe-S hydro-lyase, tartrate dehydratase beta-type, catalytic domain superfamily"
+KW-0630,Annotated Keywords (UniProt),Potassium
+GO:0061695,Cellular Component (Gene Ontology),"Transferase complex, transferring phosphorus-containing groups"
+GO:1902912,Cellular Component (Gene Ontology),Pyruvate kinase complex
+GO:0004743,Molecular Function (Gene Ontology),Pyruvate kinase activity
+PF00224,Protein Domains (Pfam),"Pyruvate kinase, barrel domain"
+PF02887,Protein Domains (Pfam),"Pyruvate kinase, alpha/beta domain"
+IPR001697,Protein Domains and Features (InterPro),Pyruvate kinase
+IPR011037,Protein Domains and Features (InterPro),"Pyruvate kinase-like, insert domain superfamily"
+IPR015793,Protein Domains and Features (InterPro),"Pyruvate kinase, barrel"
+IPR015795,Protein Domains and Features (InterPro),"Pyruvate kinase, C-terminal"
+IPR015806,Protein Domains and Features (InterPro),"Pyruvate kinase, insert domain superfamily"
+IPR015813,Protein Domains and Features (InterPro),Pyruvate/Phosphoenolpyruvate kinase-like domain superfamily
+IPR018209,Protein Domains and Features (InterPro),"Pyruvate kinase, active site"
+IPR036918,Protein Domains and Features (InterPro),"Pyruvate kinase, C-terminal domain superfamily"
+IPR040442,Protein Domains and Features (InterPro),Pyruvate kinase-like domain superfamily
+GOCC:0061695,Subcellular localization (COMPARTMENTS),"Transferase complex, transferring phosphorus-containing groups"
+GOCC:1902912,Subcellular localization (COMPARTMENTS),Pyruvate kinase complex
+PF00391,Protein Domains (Pfam),"PEP-utilising enzyme, mobile domain"
+PF02896,Protein Domains (Pfam),"PEP-utilising enzyme, PEP-binding domain"
+IPR000121,Protein Domains and Features (InterPro),"PEP-utilising enzyme, C-terminal"
+IPR008279,Protein Domains and Features (InterPro),"PEP-utilising enzyme, mobile domain"
+IPR018274,Protein Domains and Features (InterPro),"PEP-utilising enzyme, active site"
+IPR023151,Protein Domains and Features (InterPro),"PEP-utilising enzyme, conserved site"
+IPR036637,Protein Domains and Features (InterPro),Phosphohistidine domain superfamily
+GO:0046835,Biological Process (Gene Ontology),Carbohydrate phosphorylation
+GO:0061615,Biological Process (Gene Ontology),Glycolytic process through fructose-6-phosphate
+GO:0003872,Molecular Function (Gene Ontology),6-phosphofructokinase activity
+GO:0008443,Molecular Function (Gene Ontology),Phosphofructokinase activity
+GO:0019200,Molecular Function (Gene Ontology),Carbohydrate kinase activity
+CL:1642,Local Network Cluster (STRING),"Glycine cleavage complex, and Oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor"
+GO:0016638,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on the CH-NH2 group of donors"
+GO:0016639,Molecular Function (Gene Ontology),"Oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor"
+GO:0051262,Biological Process (Gene Ontology),Protein tetramerization
+GO:0051289,Biological Process (Gene Ontology),Protein homotetramerization
+GO:0016832,Molecular Function (Gene Ontology),Aldehyde-lyase activity
+PF01116,Protein Domains (Pfam),Fructose-bisphosphate aldolase class-II
+IPR000771,Protein Domains and Features (InterPro),"Fructose-bisphosphate aldolase, class-II"
+GO:0072330,Biological Process (Gene Ontology),Monocarboxylic acid biosynthetic process
+GO:0015761,Biological Process (Gene Ontology),Mannose transmembrane transport
+GO:0098708,Biological Process (Gene Ontology),Glucose import across plasma membrane
+GO:0140271,Biological Process (Gene Ontology),Hexose import across plasma membrane
+CL:5082,Local Network Cluster (STRING),"Mixed, incl. Phosphoenolpyruvate-dependent sugar phosphotransferase system, and Carbohydrate metabolism"
+CL:5083,Local Network Cluster (STRING),"Mixed, incl. Phosphoenolpyruvate-dependent sugar phosphotransferase system, and Amino sugar metabolic process"
+CL:5084,Local Network Cluster (STRING),"Mixed, incl. Phosphoenolpyruvate-dependent sugar phosphotransferase system, and Beta-glucosidase activity"
+CL:5085,Local Network Cluster (STRING),"Phosphoenolpyruvate-dependent sugar phosphotransferase system, and Hexitol metabolic process"
+CL:5086,Local Network Cluster (STRING),"Phosphoenolpyruvate-dependent sugar phosphotransferase system, and Aminopeptidase"
+CL:5136,Local Network Cluster (STRING),"Galactose metabolism, and Mannose transmembrane transport"
+CL:5156,Local Network Cluster (STRING),"Galactitol metabolism, and Mannose transmembrane transport"
+CL:5166,Local Network Cluster (STRING),"Mannose transmembrane transport, and Mannose metabolic process"
+GO:0015578,Molecular Function (Gene Ontology),Mannose transmembrane transporter activity
+GO:0022870,Molecular Function (Gene Ontology),protein-N(PI)-phosphohistidine-mannose phosphotransferase system transporter activity
+GO:0008776,Molecular Function (Gene Ontology),Acetate kinase activity
+GO:0016774,Molecular Function (Gene Ontology),"Phosphotransferase activity, carboxyl group as acceptor"
+GO:0009051,Biological Process (Gene Ontology),"Pentose-phosphate shunt, oxidative branch"
+GO:0044275,Biological Process (Gene Ontology),Cellular carbohydrate catabolic process
+GO:0004332,Molecular Function (Gene Ontology),Fructose-bisphosphate aldolase activity
+GO:0009898,Cellular Component (Gene Ontology),Cytoplasmic side of plasma membrane
+GO:0019897,Cellular Component (Gene Ontology),Extrinsic component of plasma membrane
+GO:0019898,Cellular Component (Gene Ontology),Extrinsic component of membrane
+GO:0031234,Cellular Component (Gene Ontology),Extrinsic component of cytoplasmic side of plasma membrane
+GO:0098552,Cellular Component (Gene Ontology),Side of membrane
+GO:0098562,Cellular Component (Gene Ontology),Cytoplasmic side of membrane
+GO:0071949,Molecular Function (Gene Ontology),FAD binding
+GOCC:0009898,Subcellular localization (COMPARTMENTS),Cytoplasmic side of plasma membrane
+GOCC:0019897,Subcellular localization (COMPARTMENTS),Extrinsic component of plasma membrane
+GOCC:0019898,Subcellular localization (COMPARTMENTS),Extrinsic component of membrane
+GOCC:0031234,Subcellular localization (COMPARTMENTS),Extrinsic component of cytoplasmic side of plasma membrane
+GOCC:0098552,Subcellular localization (COMPARTMENTS),Side of membrane
+GOCC:0098562,Subcellular localization (COMPARTMENTS),Cytoplasmic side of membrane
+GO:0015988,Biological Process (Gene Ontology),"Energy coupled proton transmembrane transport, against electrochemical gradient"
+GO:0015990,Biological Process (Gene Ontology),Electron transport coupled proton transport
+GO:0042773,Biological Process (Gene Ontology),ATP synthesis coupled electron transport
+PF00361,Protein Domains (Pfam),Proton-conducting membrane transporter
+IPR001750,Protein Domains and Features (InterPro),"NADH:quinone oxidoreductase/Mrp antiporter, membrane subunit"
+KW-0288,Annotated Keywords (UniProt),FMN
+GO:0006083,Biological Process (Gene Ontology),Acetate metabolic process
+GO:0019413,Biological Process (Gene Ontology),Acetate biosynthetic process
+GO:0042710,Biological Process (Gene Ontology),Biofilm formation
+GO:0044010,Biological Process (Gene Ontology),Single-species biofilm formation
+GO:0051703,Biological Process (Gene Ontology),Biological process involved in intraspecies interaction between organisms
+GO:0098630,Biological Process (Gene Ontology),Aggregation of unicellular organisms
+GO:0098743,Biological Process (Gene Ontology),Cell aggregation
+PF00871,Protein Domains (Pfam),Acetokinase family
+IPR000890,Protein Domains and Features (InterPro),"Aliphatic acid kinase, short-chain"
+IPR004372,Protein Domains and Features (InterPro),Acetate/propionate kinase
+IPR023865,Protein Domains and Features (InterPro),"Aliphatic acid kinase, short-chain, conserved site"
+IPR043129,Protein Domains and Features (InterPro),"ATPase, nucleotide binding domain"
+GO:0070689,Biological Process (Gene Ontology),L-threonine catabolic process to propionate
+GO:0008959,Molecular Function (Gene Ontology),Phosphate acetyltransferase activity
+PF01515,Protein Domains (Pfam),Phosphate acetyl/butaryl transferase
+IPR002505,Protein Domains and Features (InterPro),Phosphate acetyl/butaryl transferase
+IPR004614,Protein Domains and Features (InterPro),Phosphate acetyltransferase
+IPR042112,Protein Domains and Features (InterPro),"Phosphate acetyltransferase, domain 2"
+IPR042113,Protein Domains and Features (InterPro),"Phosphate acetyltransferase, domain 1"
+GO:0006109,Biological Process (Gene Ontology),Regulation of carbohydrate metabolic process
+GO:0009892,Biological Process (Gene Ontology),Negative regulation of metabolic process
+GO:0048523,Biological Process (Gene Ontology),Negative regulation of cellular process
+GO:0016775,Molecular Function (Gene Ontology),"Phosphotransferase activity, nitrogenous group as acceptor"
+GO:0046164,Biological Process (Gene Ontology),Alcohol catabolic process
+GO:1901616,Biological Process (Gene Ontology),Organic hydroxy compound catabolic process
+GO:0030145,Molecular Function (Gene Ontology),Manganese ion binding
+KW-0106,Annotated Keywords (UniProt),Calcium
+GO:0004802,Molecular Function (Gene Ontology),Transketolase activity
+PF02780,Protein Domains (Pfam),"Transketolase, C-terminal domain"
+IPR005478,Protein Domains and Features (InterPro),"Transketolase, bacterial-like"
+IPR020826,Protein Domains and Features (InterPro),Transketolase binding site
+IPR033247,Protein Domains and Features (InterPro),Transketolase family
+IPR033248,Protein Domains and Features (InterPro),"Transketolase, C-terminal domain"
+KW-0769,Annotated Keywords (UniProt),Symport
+GO:0015293,Molecular Function (Gene Ontology),Symporter activity
+GO:0015294,Molecular Function (Gene Ontology),Solute:cation symporter activity
+GO:0019321,Biological Process (Gene Ontology),Pentose metabolic process
+GO:0004751,Molecular Function (Gene Ontology),ribose-5-phosphate isomerase activity
+GO:0016861,Molecular Function (Gene Ontology),"Intramolecular oxidoreductase activity, interconverting aldoses and ketoses"
+GO:0043531,Molecular Function (Gene Ontology),ADP binding
+GO:0015727,Biological Process (Gene Ontology),Lactate transport
+GO:0015850,Biological Process (Gene Ontology),Organic hydroxy compound transport
+GO:0035873,Biological Process (Gene Ontology),Lactate transmembrane transport
+CL:2403,Local Network Cluster (STRING),"Mixed, incl. Glycolate dehydrogenase activity, and LUD domain"
+GO:0015129,Molecular Function (Gene Ontology),Lactate transmembrane transporter activity
+GO:0015295,Molecular Function (Gene Ontology),Solute:proton symporter activity
+GO:1901618,Molecular Function (Gene Ontology),Organic hydroxy compound transmembrane transporter activity
+PF02652,Protein Domains (Pfam),L-lactate permease
+IPR003804,Protein Domains and Features (InterPro),L-lactate permease
+GO:0004474,Molecular Function (Gene Ontology),Malate synthase activity
+PF01274,Protein Domains (Pfam),Malate synthase
+IPR001465,Protein Domains and Features (InterPro),Malate synthase
+IPR011076,Protein Domains and Features (InterPro),Malate synthase superfamily
+IPR044856,Protein Domains and Features (InterPro),"Malate synthase, C-terminal superfamily"
+IPR046363,Protein Domains and Features (InterPro),"Malate synthase, N-terminal and TIM-barrel domains"
+KW-0592,Annotated Keywords (UniProt),Phosphate transport
+GO:0006817,Biological Process (Gene Ontology),Phosphate ion transport
+GO:0015698,Biological Process (Gene Ontology),Inorganic anion transport
+GO:0035435,Biological Process (Gene Ontology),Phosphate ion transmembrane transport
+GO:0098661,Biological Process (Gene Ontology),Inorganic anion transmembrane transport
+GO:0005315,Molecular Function (Gene Ontology),Inorganic phosphate transmembrane transporter activity
+PF01384,Protein Domains (Pfam),Phosphate transporter family
+IPR001204,Protein Domains and Features (InterPro),Phosphate transporter
+KW-0028,Annotated Keywords (UniProt),Amino-acid biosynthesis
+KW-0314,Annotated Keywords (UniProt),Glutamate biosynthesis
+GO:0019676,Biological Process (Gene Ontology),Ammonia assimilation cycle
+GO:0019740,Biological Process (Gene Ontology),Nitrogen utilization
+GO:0097054,Biological Process (Gene Ontology),L-glutamate biosynthetic process
+GO:0009342,Cellular Component (Gene Ontology),Glutamate synthase complex (NADPH)
+GO:0031026,Cellular Component (Gene Ontology),Glutamate synthase complex
+GO:0004355,Molecular Function (Gene Ontology),Glutamate synthase (NADPH) activity
+GO:0015930,Molecular Function (Gene Ontology),Glutamate synthase activity
+GO:0045181,Molecular Function (Gene Ontology),"Glutamate synthase activity, NAD(P)H as acceptor"
+GOCC:0009342,Subcellular localization (COMPARTMENTS),Glutamate synthase complex (NADPH)
+GOCC:0031026,Subcellular localization (COMPARTMENTS),Glutamate synthase complex
+KW-0170,Annotated Keywords (UniProt),Cobalt
+GO:0046365,Biological Process (Gene Ontology),Monosaccharide catabolic process
+GO:0004750,Molecular Function (Gene Ontology),D-ribulose-phosphate 3-epimerase activity
+GO:0016854,Molecular Function (Gene Ontology),Racemase and epimerase activity
+GO:0016857,Molecular Function (Gene Ontology),"Racemase and epimerase activity, acting on carbohydrates and derivatives"
+PF00834,Protein Domains (Pfam),Ribulose-phosphate 3 epimerase family
+IPR000056,Protein Domains and Features (InterPro),Ribulose-phosphate 3-epimerase-like
+IPR011060,Protein Domains and Features (InterPro),Ribulose-phosphate binding barrel
+GO:0004611,Molecular Function (Gene Ontology),Phosphoenolpyruvate carboxykinase activity
+GO:0006835,Biological Process (Gene Ontology),Dicarboxylic acid transport
+CL:6432,Local Network Cluster (STRING),"Mixed, incl. LysR, substrate-binding, and Organic acid transmembrane transporter activity"
+CL:6578,Local Network Cluster (STRING),"Mostly uncharacterized, incl. Solute carrier family 13, and ATP-independent citrate lyase complex"
+CL:6580,Local Network Cluster (STRING),"Mixed, incl. ATP-independent citrate lyase complex, and Single cache domain 3"
+CL:6581,Local Network Cluster (STRING),"Mixed, incl. Tartrate metabolic process, and Fumarate transport"
+CL:6583,Local Network Cluster (STRING),"Fumarate transport, and Single cache domain 3"
+IPR001991,Protein Domains and Features (InterPro),Sodium:dicarboxylate symporter
+IPR018107,Protein Domains and Features (InterPro),"Sodium:dicarboxylate symporter, conserved site"
+IPR036458,Protein Domains and Features (InterPro),Sodium:dicarboxylate symporter superfamily
+GO:0006007,Biological Process (Gene Ontology),Glucose catabolic process
+GO:0019320,Biological Process (Gene Ontology),Hexose catabolic process
+KW-0139,Annotated Keywords (UniProt),CF(1)
+GO:0033178,Cellular Component (Gene Ontology),"Proton-transporting two-sector ATPase complex, catalytic domain"
+GO:0045261,Cellular Component (Gene Ontology),"Proton-transporting ATP synthase complex, catalytic core F(1)"
+GOCC:0033178,Subcellular localization (COMPARTMENTS),"Proton-transporting two-sector ATPase complex, catalytic domain"
+GOCC:0045261,Subcellular localization (COMPARTMENTS),"Proton-transporting ATP synthase complex, catalytic core F(1)"
+GO:0009678,Molecular Function (Gene Ontology),Pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+GO:0019829,Molecular Function (Gene Ontology),ATPase-coupled cation transmembrane transporter activity
+GO:0042625,Molecular Function (Gene Ontology),ATPase-coupled ion transmembrane transporter activity
+GO:0044769,Molecular Function (Gene Ontology),"ATPase activity, coupled to transmembrane movement of ions, rotational mechanism"
+GO:0046961,Molecular Function (Gene Ontology),"Proton-transporting ATPase activity, rotational mechanism"
+IPR000194,Protein Domains and Features (InterPro),"ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain"
+IPR004100,Protein Domains and Features (InterPro),"ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain"
+IPR020003,Protein Domains and Features (InterPro),"ATPase, alpha/beta subunit, nucleotide-binding domain, active site"
+IPR036121,Protein Domains and Features (InterPro),"ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain superfamily"
+KW-0138,Annotated Keywords (UniProt),CF(0)
+GO:0033177,Cellular Component (Gene Ontology),"Proton-transporting two-sector ATPase complex, proton-transporting domain"
+GO:0045263,Cellular Component (Gene Ontology),"Proton-transporting ATP synthase complex, coupling factor F(o)"
+GOCC:0033177,Subcellular localization (COMPARTMENTS),"Proton-transporting two-sector ATPase complex, proton-transporting domain"
+GOCC:0045263,Subcellular localization (COMPARTMENTS),"Proton-transporting ATP synthase complex, coupling factor F(o)"
+GO:0006002,Biological Process (Gene Ontology),Fructose 6-phosphate metabolic process
+GO:0030388,Biological Process (Gene Ontology),"Fructose 1,6-bisphosphate metabolic process"
+GO:0030246,Molecular Function (Gene Ontology),Carbohydrate binding
+GO:0048029,Molecular Function (Gene Ontology),Monosaccharide binding
+GO:0006071,Biological Process (Gene Ontology),Glycerol metabolic process
+GO:0019400,Biological Process (Gene Ontology),Alditol metabolic process
+GO:0019751,Biological Process (Gene Ontology),Polyol metabolic process
+GO:0016791,Molecular Function (Gene Ontology),Phosphatase activity
+GO:0019203,Molecular Function (Gene Ontology),Carbohydrate phosphatase activity
+GO:0042132,Molecular Function (Gene Ontology),"Fructose 1,6-bisphosphate 1-phosphatase activity"
+GO:0042578,Molecular Function (Gene Ontology),Phosphoric ester hydrolase activity
+GO:0050308,Molecular Function (Gene Ontology),Sugar-phosphatase activity
+CL:5088,Local Network Cluster (STRING),"Mixed, incl. Fructose transmembrane transport, and PTS EIIA type-2 domain"
+CL:5123,Local Network Cluster (STRING),"protein-phosphocysteine-D-fructose-phosphotransferase system transporter activity, and Glycyl radical enzyme, PFL2/glycerol dehydratase family"
+GO:0006996,Biological Process (Gene Ontology),Organelle organization
+GO:0030030,Biological Process (Gene Ontology),Cell projection organization
+GO:0030031,Biological Process (Gene Ontology),Cell projection assembly
+GO:0044780,Biological Process (Gene Ontology),Bacterial-type flagellum assembly
+GO:0044781,Biological Process (Gene Ontology),Bacterial-type flagellum organization
+GO:0070925,Biological Process (Gene Ontology),Organelle assembly
+GO:0140694,Biological Process (Gene Ontology),Non-membrane-bounded organelle assembly
+GO:0045283,Cellular Component (Gene Ontology),Fumarate reductase complex
+GO:0045284,Cellular Component (Gene Ontology),Plasma membrane fumarate reductase complex
+GO:0102040,Molecular Function (Gene Ontology),Fumarate reductase (menaquinone)
+GOCC:0045283,Subcellular localization (COMPARTMENTS),Fumarate reductase complex
+GOCC:0045284,Subcellular localization (COMPARTMENTS),Plasma membrane fumarate reductase complex
+GO:0001539,Biological Process (Gene Ontology),Cilium or flagellum-dependent cell motility
+GO:0048870,Biological Process (Gene Ontology),Cell motility
+GO:0071973,Biological Process (Gene Ontology),Bacterial-type flagellum-dependent cell motility
+GO:0097588,Biological Process (Gene Ontology),Archaeal or bacterial-type flagellum-dependent cell motility

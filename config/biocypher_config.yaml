@@ -7,6 +7,11 @@ biocypher:
   cache_directory: .cache
 
 neo4j:
+  # Force generation of the shell script by setting prefixes
+  import_call_bin_prefix: ""
+  import_call_file_prefix: ""
+  # Use 'Leaves' for edge label order as requested by your previous log warning
+  edge_labels_order: "Leaves"
   delimiter: '\t'
   array_delimiter: "|"
   skip_duplicate_nodes: true

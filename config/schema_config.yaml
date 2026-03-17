@@ -1,21 +1,229 @@
-# add your desired knowledge graph components here
+# ==========================================
+# (NODES) GSMM ADAPTER
+# ==========================================
+model:
+  is_a: named thing
+  represented_as: node
+  label_in_input: model
+
+organism:
+  is_a: named thing
+  represented_as: node
+  label_in_input: organism
+
+compartment:
+  is_a: cellular component
+  represented_as: node
+  label_in_input: compartment
+
+model gene:
+  is_a: gene
+  represented_as: node
+  label_in_input: model_gene
+
+model reaction:
+  is_a: molecular activity
+  represented_as: node
+  label_in_input: model_reaction
+
+model metabolite:
+  is_a: chemical entity
+  represented_as: node
+  label_in_input: model_metabolite
+
+# ==========================================
+# (EDGES) GSMM ADAPTER
+# ==========================================
+model has organism:
+  is_a: related to
+  represented_as: edge
+  label_in_input: model_has_organism
+  source: model
+  target: organism
+
+model has gene:
+  is_a: related to
+  represented_as: edge
+  label_in_input: model_has_gene
+  source: model
+  target: model gene
+
+model has reaction:
+  is_a: related to
+  represented_as: edge
+  label_in_input: model_has_reaction
+  source: model
+  target: model reaction
+
+model has metabolite:
+  is_a: related to
+  represented_as: edge
+  label_in_input: model_has_metabolite
+  source: model
+  target: model metabolite
+
+model has compartment:
+  is_a: related to
+  represented_as: edge
+  label_in_input: model_has_compartment
+  source: model
+  target: compartment
+
+gene reaction:
+  is_a: related to
+  represented_as: edge
+  label_in_input: gene_reaction
+  source: model gene
+  target: model reaction
+
+reaction metabolite:
+  is_a: related to
+  represented_as: edge
+  label_in_input: reaction_metabolite
+  source: model reaction
+  target: model metabolite
+
+metabolite in compartment:
+  is_a: located in
+  represented_as: edge
+  label_in_input: metabolite_in_compartment
+  source: model metabolite
+  target: compartment
+
+reaction in compartment:
+  is_a: occurs in
+  represented_as: edge
+  label_in_input: reaction_in_compartment
+  source: model reaction
+  target: compartment
+
+# ==========================================
+# Layer 2: PUBMED
+# ==========================================
+
+publication:
+  represented_as: node
+  is_a: scholarly work
+  label_in_input: publication
+  properties:
+    title: str
+    abstract: str
+    year: int
+    authors: str
+    journal: str
+    doi: str
+    pubmed_url: str
+
+mentioned in publication:
+  represented_as: edge
+  is_a: related to
+  label_in_input: mentioned_in_publication
+  source: named thing
+  target: publication
+
+
+
+entities:
+  - alias: metabolite
+    labels: ["ModelMetabolite"]
+    id_property: "id"
+    text_properties:
+      - "name"
+      - "id"
+
+  - alias: gene
+    labels: ["ModelGene"]
+    id_property: "id"
+    text_properties:
+      - "name"
+      - "id"
+
+  - alias: reaction
+    labels: ["ModelReaction"]
+    id_property: "id"
+    text_properties:
+      - "name"
+      - "id"
+
+  - alias: compartment
+    labels: ["Compartment"]
+    id_property: "id"
+    text_properties:
+      - "name"
+      - "id"
+
+  - alias: publication
+    labels: ["Publication"]
+    id_property: "doi"
+    text_properties:
+      - "title"
+      - "abstract"
+  
+  - alias: protein
+    labels: ["Protein"]
+    id_property: "id"
+    text_properties:
+      - "name"
+      - "uniprot_id"
+      - "generic_annotations"
+
+  - alias: functional_term
+    labels: ["FunctionalTerm"]
+    id_property: "id"
+    text_properties:
+      - "category"
+      - "description"
+
+# ==========================================
+# Layer 3: STRING DB (Proteins & Functions)
+# ==========================================
 
 protein:
-    represented_as: node
-    preferred_id: uniprot
-    input_label: uniprot_protein
+  represented_as: node
+  is_a: gene product
+  label_in_input: protein
+  properties:
+    name: str
+    uniprot_id: str
+    generic_annotations: str
+    # As propriedades dinâmicas do GO/UniProt não precisam 
+    # de estar hardcoded aqui, o Neo4j aceita-as na mesma.
 
-disease:
-    represented_as: node
-    preferred_id: doid
-    input_label: do_disease
+functional term:
+  represented_as: node
+  is_a: biological entity
+  label_in_input: functional_term
+  properties:
+    category: str
+    description: str
 
-protein interaction:
-    is_a: pairwise molecular interaction
-    represented_as: edge
-    input_label: protein_protein_interaction
+encodes:
+  represented_as: edge
+  is_a: related to
+  label_in_input: encodes
+  source: model gene
+  target: protein
 
-protein to disease association:
-    is_a: association
-    represented_as: edge
-    input_label: protein_disease_association
+has functional annotation:
+  represented_as: edge
+  is_a: related to
+  label_in_input: has_functional_annotation
+  source: protein
+  target: functional term
+
+interacts with:
+  represented_as: edge
+  is_a: interacts with
+  label_in_input: interacts_with
+  source: protein
+  target: protein
+  properties:
+    combined_score: int
+    experimental_score: int
+    textmining_score: int
+    neighborhood: int
+    fusion: int
+    cooccurence: int
+    homology: int
+    coexpression: int
+    database: int
